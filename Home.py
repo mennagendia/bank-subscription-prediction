@@ -180,9 +180,9 @@ elif page == "📈 Data Analysis":
 st.markdown("---")
 st.markdown(
     """
-    👨‍💻 **Developed by [Menna Gendia](https://www.linkedin.com/in/menna-gendia)**  
-    📌 **GitHub:** [[Menna Gendia](linkedin.com/in/menna-gendia-59823a269)**
-    🛠️ **Powered by Deep Note,Python,Streamlit & Plotly**  
+    👨‍💻 **Developed by [Menna Gendia](https://www.linkedin.com/in/menna-gendia-59823a269/)**  
+    📌 **GitHub:** [Menna Gendia](https://github.com/MennaGendia)  
+    🛠️ **Powered by Deepnote, Python, Streamlit & Plotly**  
     🚀 _Making Data Science Accessible & Fun!_
     """
 )

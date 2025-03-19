@@ -1,0 +1,8 @@
+category_encoders==2.8.0
+pip
+seaborn==0.13.2
+plotly==6.0.0
+imblearn==0.0
+xgboost==2.1.4
+cloudpickle==3.1.1
+category_encoders==2.8.0
